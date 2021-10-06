@@ -29,6 +29,37 @@
         width: 100%;
         height: 160px;
     }
+    .middle {
+        transition: .5s ease;
+        opacity: 1;
+        position: absolute;
+        top: 88%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .img_c{
+        width:100%;
+        height: auto;
+    }
+
+   .img_c:hover{
+       opacity: 0.3;
+   }
+
+   .middle:hover{
+       opacity: 1;
+   }
+   .text {
+    background-color: #a07303;
+    color: white;
+    font-size: 14px;
+    padding: 12px 38px;
+    font-weight: 700;
+  }
+
+
     /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
@@ -730,6 +761,7 @@
     
     .img-fluid {
         border: solid 2px #a07303;
+        
     }
     
     .gallery-int {
@@ -747,19 +779,19 @@
     
     .ext_1 {
         border: 3px solid #a07303 ;
-        width: 192px;
+        width: 200px;
         height: 130px;
         position: relative;
         left: 18px;
     }
     
     .pergolas {
-        margin-left: 39px;
+        margin-left: 32px;
     }
     
     .p {
-        margin-left: 1px;
-        color: #a07303;
+        margin-left: 5px;
+        color:#a07303;
         font-family: monospace;
     }
     
@@ -1278,7 +1310,7 @@
             margin-top: -28px;
         }
         .gallery-int {
-            position: initial;
+            position: relative;
             left: 0px;
             top: 0px;
         }
@@ -1446,7 +1478,7 @@
             margin-top: -33px;
         }
         .gallery-int {
-            position: initial;
+            position: relative;
             left: 0px;
             top: 0px;
         }
@@ -1612,7 +1644,7 @@
             margin-top: -35px;
         }
         .gallery-int {
-            position: initial;
+            position: relative;
             left: 0px;
             top: 0px;
         }
