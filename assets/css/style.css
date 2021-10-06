@@ -1006,13 +1006,13 @@
             left: 70px;
         }
         .p {
-            margin-left: -8px;
+            margin-left: -13px;
         }
         .d {
-            margin-left: -9px;
+            margin-left: -12px;
         }
         .e {
-            margin-left: 23px;
+            margin-left: 17px;
         }
         .gallery-int {
             left: 207px;
@@ -1335,8 +1335,12 @@
             top: 7px;
         }
         .features_section {
-            margin-top: 138px;
+            margin-top: 208px;
         }
+        .footer_1{
+            margin-top: -63px;
+        }
+        
     }
     
     @media screen and (max-width: 575px) and (min-width: 475px) {
