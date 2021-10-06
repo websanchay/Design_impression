@@ -1024,7 +1024,7 @@
             background-color: #a07303;
             color: white;
             font-size: 9px;
-            padding: 11px 11px;
+            padding: 0px 13px;
             font-weight: 700;
         }
         .ext_1 {
@@ -1037,7 +1037,7 @@
             width: 70px;
         }
         .p {
-            margin-left: -1px;
+            margin-left: -16px;
             font-size: 10px;
            
         }
@@ -1047,12 +1047,12 @@
             left: -1px;
         }
         .cladding {
-            margin-left: 24px;
+            margin-left: 10px;
             width: 70px;
         }
         .d {
-            margin-left: -14px;
-            font-size: 10px;
+            margin-left: -5px;
+            font-size: 9px;
         
         }
         .ext_3 {
@@ -1104,6 +1104,7 @@
         .ext_6 {
             width: 130px;
             left: 41px;
+            height: 116px;
         }
         .vertical {
             margin-left: -7px;
