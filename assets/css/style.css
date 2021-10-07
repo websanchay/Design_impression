@@ -172,7 +172,7 @@
         position: relative;
     }
     .navbar li b{
-        font-weight: 400;
+        font-weight: 700;
         font-size: initial;
 
     }
@@ -787,6 +787,8 @@
     
     .pergolas {
         margin-left: 32px;
+        height: 75px;
+        margin-top: 19px;
     }
     
     .p {
@@ -805,6 +807,7 @@
     
     .cladding {
         margin-left: 29px;
+        margin-top: 20px;
     }
     
     .d {
@@ -823,6 +826,8 @@
     
     .garden {
         margin-left: 27px;
+        height: 75px;
+        margin-top: 24px;
     }
     
     .t {
@@ -841,8 +846,8 @@
     
     .outdoor {
         margin-left: 29px;
-        height: 90px;
-        margin-top: 10px;
+        height: 75px;
+        margin-top: 18px;
     }
     
     .o {
@@ -863,6 +868,8 @@
     
     .fireplace {
         margin-left: 28px;
+        height: 75px;
+        margin-top: 22px;
     }
     
     .f {
@@ -876,16 +883,17 @@
         position: relative;
         width: 200px;
         left: 114px;
+        height:137px;
     }
     
     .vertical {
-        margin-left: 41px;
-        height: 90px;
-        margin-top: 9px;
+        margin-left: 30px;
+        height: 75px;
+        margin-top: 23px;
     }
     
     .v {
-        margin-left: 34px;
+        margin-left: 18px;
         color: #a07303;
         font-family: monospace;
     }
@@ -895,10 +903,13 @@
         position: relative;
         width: 200px;
         left: 157px;
+        height:137px;
     }
     
     .water {
         margin-left: 28px;
+        height:75px;
+        margin-top: 22px;
     }
     
     .w {
@@ -912,13 +923,14 @@
         position: relative;
         width: 200px;
         left: 197px;
+        height: 137px;
     }
     
     .bar {
         margin-left: 43px;
         width: 90px;
-        height: 90px;
-        margin-top: 7px;
+        height:75px;
+        margin-top: 17px;
     }
     
     .b {
@@ -934,10 +946,13 @@
         position: relative;
         width: 200px;
         left: 232px;
+        height:137px;
     }
     
     .exteriors {
         margin-left: 31px;
+        height:75px;
+        margin-top: 24px;
     }
     
     .e {
@@ -1034,7 +1049,8 @@
         }
         .pergolas {
             margin-left: 13px;
-            width: 70px;
+            width: 65px;
+            margin-top: 5px;
         }
         .p {
             margin-left: -16px;
@@ -1062,7 +1078,8 @@
         }
         .garden {
             margin-left: 9px;
-            width: 70px;
+            width: 65px;
+            margin-top: 2px;
         }
         .t {
             margin-left: -4px;
@@ -1094,7 +1111,8 @@
         }
         .fireplace {
             margin-left: 14px;
-            width: 70px;
+            width: 65px;
+            margin-top: 3px;
         }
         .f {
             margin-left: 21px;
@@ -1316,6 +1334,7 @@
             margin-left: 39px;
             width: 70px;
             height: 70px;
+            margin-top: 6px;
         }
         .e {
             margin-left: 5px;
@@ -1353,6 +1372,7 @@
             margin-left: 19px;
             width: 61px;
             margin-top: 4px;
+            height:65px;
         }
         .p {
             margin-left: -15px;
@@ -1518,7 +1538,8 @@
         .pergolas {
             margin-left: 14px;
             width: 64px;
-            margin-top: 4px;
+            margin-top: 3px;
+            height:67px;
         }
         .p {
             margin-left: -8px;
@@ -1679,6 +1700,7 @@
         .pergolas {
             margin-left: 113px;
             width: 76px;
+            margin-top: 3px;
         }
         .p {
             margin-left: 79px;
@@ -1706,7 +1728,8 @@
         }
         .garden {
             margin-left: 119px;
-            width: 71px;
+            width: 65px;
+            margin-top: 9px;
         }
         .t {
             margin-left: 96px;
@@ -1736,6 +1759,7 @@
         .fireplace {
             margin-left: 111px;
             width: 75px;
+            margin-top: 4px;
         }
         .f {
             margin-left: 114px;
@@ -1767,6 +1791,7 @@
             margin-left: 100px;
             width: 85px;
             height: 74px;
+            margin-top: 6px;
         }
         .w {
             margin-left: 91px;
@@ -1785,7 +1810,7 @@
             margin-top: 12px;
         }
         .b {
-            left: 82px;
+            left: 104px;
             font-size: 14px;
         }
         .ext_9 {
@@ -1826,6 +1851,7 @@
         .pergolas {
             margin-left: 92px;
             width: 76px;
+            margin-top: 5px;
         }
         .p {
             margin-left: 56px;
@@ -1853,7 +1879,8 @@
         }
         .garden {
             margin-left: 91px;
-            width: 71px;
+            width: 65px;
+            margin-top: 6px;
         }
         .t {
             margin-left: 72px;
@@ -1883,6 +1910,7 @@
         .fireplace {
             margin-left: 83px;
             width: 75px;
+            margin-top: 5px;
         }
         .f {
             margin-left: 85px;
@@ -1914,6 +1942,7 @@
             margin-left: 75px;
             width: 85px;
             height: 74px;
+            margin-top: 6px;
         }
         .w {
             margin-left: 68px;
